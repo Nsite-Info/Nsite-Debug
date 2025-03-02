@@ -1,6 +1,6 @@
 # Nsite-Debug
  
-This repo is for resolving Nsites at the subdomain level also known as a Gateway.
+This repo is for debugging the requirements for Nsites to resolve through gateways.
 
 Its technical scope is the following:
 
